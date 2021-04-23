@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/scorpionGroup/static/css/main.2d1684a6.chunk.css",
+    "main.js": "/scorpionGroup/static/js/main.4571ce67.chunk.js",
+    "main.js.map": "/scorpionGroup/static/js/main.4571ce67.chunk.js.map",
+    "runtime-main.js": "/scorpionGroup/static/js/runtime-main.769af48f.js",
+    "runtime-main.js.map": "/scorpionGroup/static/js/runtime-main.769af48f.js.map",
+    "static/css/2.b5ce3b2b.chunk.css": "/scorpionGroup/static/css/2.b5ce3b2b.chunk.css",
+    "static/js/2.48b605d7.chunk.js": "/scorpionGroup/static/js/2.48b605d7.chunk.js",
+    "static/js/2.48b605d7.chunk.js.map": "/scorpionGroup/static/js/2.48b605d7.chunk.js.map",
+    "static/js/3.be2a5ffb.chunk.js": "/scorpionGroup/static/js/3.be2a5ffb.chunk.js",
+    "static/js/3.be2a5ffb.chunk.js.map": "/scorpionGroup/static/js/3.be2a5ffb.chunk.js.map",
+    "index.html": "/scorpionGroup/index.html",
+    "static/css/2.b5ce3b2b.chunk.css.map": "/scorpionGroup/static/css/2.b5ce3b2b.chunk.css.map",
+    "static/css/main.2d1684a6.chunk.css.map": "/scorpionGroup/static/css/main.2d1684a6.chunk.css.map",
+    "static/js/2.48b605d7.chunk.js.LICENSE.txt": "/scorpionGroup/static/js/2.48b605d7.chunk.js.LICENSE.txt",
+    "static/media/ami.adeee2c4.png": "/scorpionGroup/static/media/ami.adeee2c4.png",
+    "static/media/bams.1c81519f.png": "/scorpionGroup/static/media/bams.1c81519f.png",
+    "static/media/bnrd.a709ba7e.png": "/scorpionGroup/static/media/bnrd.a709ba7e.png",
+    "static/media/semantic.min.css": "/scorpionGroup/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/deko.edba9c62.png": "/scorpionGroup/static/media/deko.edba9c62.png",
+    "static/media/gala.cee9cdac.png": "/scorpionGroup/static/media/gala.cee9cdac.png",
+    "static/media/isaac.4df50fa8.png": "/scorpionGroup/static/media/isaac.4df50fa8.png",
+    "static/media/jeremie.28df4bec.png": "/scorpionGroup/static/media/jeremie.28df4bec.png",
+    "static/media/joe.bf0e8ca6.png": "/scorpionGroup/static/media/joe.bf0e8ca6.png",
+    "static/media/jonas.1c2c780e.png": "/scorpionGroup/static/media/jonas.1c2c780e.png",
+    "static/media/jonathan.cce646c9.png": "/scorpionGroup/static/media/jonathan.cce646c9.png",
+    "static/media/nathan.51b9246e.png": "/scorpionGroup/static/media/nathan.51b9246e.png",
+    "static/media/rico.7f75ed57.png": "/scorpionGroup/static/media/rico.7f75ed57.png",
+    "static/media/ruth.a9c62cab.png": "/scorpionGroup/static/media/ruth.a9c62cab.png",
+    "static/media/skofild.55a6645a.png": "/scorpionGroup/static/media/skofild.55a6645a.png",
+    "static/media/tond.ecfebe52.png": "/scorpionGroup/static/media/tond.ecfebe52.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.769af48f.js",
+    "static/css/2.b5ce3b2b.chunk.css",
+    "static/js/2.48b605d7.chunk.js",
+    "static/css/main.2d1684a6.chunk.css",
+    "static/js/main.4571ce67.chunk.js"
+  ]
+}
