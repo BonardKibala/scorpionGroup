@@ -1,0 +1,65 @@
+*{
+  box-sizing: border-box;
+}
+.principalContainer{
+  /* background-image: linear-gradient(to right top, black,white,black ) !important; */
+  background-color: #f7f7f7 !important;
+  background-size: contain;
+  background-position: fixed;
+  background-repeat: no-repeat;
+}
+.cardContainer{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: 2rem;
+}
+/* .container{
+} */
+.grid{
+  background-color:transparent !important;
+}
+.gridcolumn{
+  background-color:transparent !important;
+}
+.segment{
+  background-color:transparent !important;
+}
+.card{
+  background-color: white !important;
+}
+.inputSearch{
+  width: 50% !important;
+  
+}
+.header{
+  font-weight: 900 !important;
+}
+.form{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.title{
+  font-family: 'SEGA LOGO FONT';
+  font-weight: 700;
+  color: #0ccac4;
+  font-size: 3rem;
+}
+.footer{
+  width: 100vw !important;
+  background-color: black !important;
+  background-position: fixed;
+  text-align: center;
+}
+.loading{
+  font-family: 'SEGA LOGO FONT';
+  font-weight: 700;
+  color: #0ccac4;
+  font-size: 4rem;
+  height: 100vh;
+  text-align: center;
+  padding-top: 15rem;
+}
